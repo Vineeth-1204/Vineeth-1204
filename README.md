@@ -88,12 +88,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vineeth-1204&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineeth's GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vineeth-1204&theme=tokyonight&hide_border=true" alt="Vineeth's streak stats" />
+  <img height="170" src="https://github-readme-stats-wheat-xi-93.vercel.app/api?username=Vineeth-1204&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineeth's GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats-silk-phi.vercel.app/?user=Vineeth-1204&theme=tokyonight&hide_border=true" alt="Vineeth's streak stats" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-1204&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-wheat-xi-93.vercel.app/api/top-langs/?username=Vineeth-1204&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---
