@@ -4,19 +4,21 @@
 
 ──────────────────────────────
 
-# PROJECT NAME
+<br/>
 
-### One-line description of what it does and who it's for
+# VINEETH P
 
-`CATEGORY` · FEATURED
+### Software Engineer
 
 <br/>
 
-`Tech` `Tech` `Tech` `Tech`
+Engineered for Performance. Built with Precision.
 
 <br/>
 
-[Live Demo](#) &nbsp;·&nbsp; [Report Bug](#) &nbsp;·&nbsp; [Request Feature](#)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=Mobile+Architecture+%E2%80%94+Flutter+%2F+Android;Edge+Vision+%2F+AI+%E2%80%94+OpenCV+%2B+TFLite;Backend+%26+Automation+%E2%80%94+Node.js+%2F+Python;Learning+by+building.+Zero+generic+templates." />
+
+<br/><br/>
 
 ──────────────────────────────
 
@@ -24,18 +26,15 @@
 
 <br/>
 
-## Overview
-
-Two to four sentences. What problem does this solve, why does it exist, and what makes the approach non-trivial. Write it the way you'd pitch it in an interview — no filler.
+I craft intelligent mobile applications, edge computer vision pipelines, and clean backend architectures — based in Chennai, pursuing B.E. CSE at Rajalakshmi Engineering College (2024–2028).
 
 <br/>
 
 <div align="center">
 
-| Metric | Metric | Metric |
+| 20+ | &lt;45ms | 2024–28 |
 |:---:|:---:|:---:|
-| `<45ms` | `96.4%` | `30+ FPS` |
-| Label | Label | Label |
+| Projects Built | Edge CV Latency | B.E. CSE @ REC |
 
 </div>
 
@@ -45,13 +44,13 @@ Two to four sentences. What problem does this solve, why does it exist, and what
 
 <br/>
 
-## Features
+## Currently
 
 ```
-❯ Feature one — one line, concrete, not "supports X"
-❯ Feature two
-❯ Feature three
-❯ Feature four
+❯ Building 20 Projects in 20 Days — twenty
+❯ Learning system design
+❯ Exploring edge AI deployment
+❯ Shipping production-ready software, not tutorials
 ```
 
 <br/>
@@ -60,15 +59,57 @@ Two to four sentences. What problem does this solve, why does it exist, and what
 
 <br/>
 
-## Screenshots
+## Featured Engineering Work
 
-<div align="center">
+<br/>
 
-<img src="./assets/screenshot-1.png" width="30%" />
-<img src="./assets/screenshot-2.png" width="30%" />
-<img src="./assets/screenshot-3.png" width="30%" />
+**`AI / VISION` · FEATURED**
+### [NG-DAS](https://github.com/Vineeth-1204/DMS)
+AI-Powered Driver Drowsiness & Safety Monitoring System — real-time facial landmark tracking, eye-aspect ratio analysis, and head pose estimation on-device.
 
-</div>
+`<45ms` inference &nbsp;·&nbsp; `96.4%` alert accuracy &nbsp;·&nbsp; `30+ FPS`
+
+`Flutter` `Dart` `Python` `OpenCV` `TensorFlow Lite`
+
+<br/>
+
+**`MOBILE DEV` · FEATURED**
+### [Attendance Tracker](https://github.com/Vineeth-1204/Attendance-App)
+WiFi SSID & geofence-based automated attendance system — cryptographically signed device tokens prevent proxy attendance.
+
+`<3sec` verification &nbsp;·&nbsp; `99.9%` proxy resistance &nbsp;·&nbsp; `Instant` sync
+
+`Flutter` `Dart` `Firebase` `REST APIs` `Node.js`
+
+<br/>
+
+**`AUTOMATION` · FEATURED**
+### [Twenty](https://github.com/Vineeth-1204/twenty)
+20 Projects in 20 Days — an intensive self-imposed sprint shipping complete, functional software daily.
+
+`20/20` completed &nbsp;·&nbsp; `20` days &nbsp;·&nbsp; `20` repos
+
+`Flutter` `Dart` `TypeScript` `Python` `Node.js`
+
+<br/>
+
+**`WEB & CLOUD`**
+### [EcoSphere](https://github.com/Vineeth-1204/odooHackathon2026-Ecosphere)
+ESG environmental & sustainability platform, built at the Odoo Hackathon — carbon footprint audits, supply-chain emissions tracking, automated compliance reports.
+
+`Scope 1,2 & 3` coverage &nbsp;·&nbsp; `<2sec` report gen
+
+`Python` `Odoo Framework` `JavaScript` `PostgreSQL`
+
+<br/>
+
+**`AUTOMATION`**
+### [AutomationAnnotation](https://github.com/Vineeth-1204/AutomationAnnotation)
+Computer vision dataset labeling pipeline — pre-trained models generate auto-label proposals for object detection.
+
+`3.5x` faster labeling &nbsp;·&nbsp; `YOLO, COCO, VOC` export
+
+`Python` `OpenCV` `PyTorch` `YOLOv8`
 
 <br/>
 
@@ -76,22 +117,15 @@ Two to four sentences. What problem does this solve, why does it exist, and what
 
 <br/>
 
-## Architecture
+## Experience
 
-```
-Client (Flutter)
-      │
-      ▼
-API Layer (Node.js / Spring Boot)
-      │
-      ▼
-Model / Inference (TFLite, OpenCV)
-      │
-      ▼
-Database (PostgreSQL / Firebase)
-```
+**App Developer Intern** · C-DAC · 1 Month
+Architected the Flutter interface for NG-DAS, integrated TensorFlow Lite edge CV models, optimized inference to a stable 30+ FPS.
 
-Short paragraph on any architectural decision worth explaining — why this pattern, what tradeoff it makes, what it optimizes for.
+<br/>
+
+**Java Developer Intern** · Coda Technology Solutions · 2 Weeks
+Core Java backend components, OOP module design, enterprise coding standards and structured exception handling.
 
 <br/>
 
@@ -99,40 +133,58 @@ Short paragraph on any architectural decision worth explaining — why this patt
 
 <br/>
 
-## Tech Stack
+## Technical Domains
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
-**Frontend**
+**Languages**
 
-Flutter
+Java
+Python
 Dart
+TypeScript
+C / C++
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
+
+**Mobile**
+
+Flutter
+Android (Java)
+Native Channels
+
+</td>
+<td valign="top" width="20%">
+
+**AI & Vision**
+
+OpenCV
+TensorFlow Lite
+PyTorch
+YOLOv8
+
+</td>
+<td valign="top" width="20%">
 
 **Backend**
 
 Node.js
+Spring Boot
 REST APIs
-
-</td>
-<td valign="top" width="25%">
-
-**AI / Vision**
-
-OpenCV
-TensorFlow Lite
-
-</td>
-<td valign="top" width="25%">
-
-**Infra**
-
 Firebase
+
+</td>
+<td valign="top" width="20%">
+
+**Cloud & Tools**
+
+PostgreSQL
 Docker
+Git
+Linux
 
 </td>
 </tr>
@@ -144,50 +196,37 @@ Docker
 
 <br/>
 
-## Installation
+## GitHub Analytics
 
-```bash
-# Clone
-git clone https://github.com/Vineeth-1204/project-name.git
-cd project-name
+<div align="center">
 
-# Install dependencies
-flutter pub get
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vineeth-1204&show_icons=true&hide_border=true&bg_color=09090B&title_color=22D3EE&icon_color=22D3EE&text_color=A1A1AA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-1204&layout=compact&hide_border=true&bg_color=09090B&title_color=22D3EE&text_color=A1A1AA" />
 
-# Run
-flutter run
-```
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineeth-1204&hide_border=true&background=09090B&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=A1A1AA&currStreakNum=F5F5F5&sideNums=F5F5F5" />
+
+</div>
 
 <br/>
 
 ──────────────────────────────
-
-<br/>
-
-## Roadmap
-
-```
-❯ Planned feature or improvement
-❯ Planned feature or improvement
-❯ Planned feature or improvement
-```
-
-<br/>
-
-──────────────────────────────
-
-<br/>
-
-## License
-
-MIT — see [LICENSE](./LICENSE) for details.
 
 <br/>
 
 <div align="center">
 
-──────────────────────────────
+## Connect
 
-Built by [Vineeth P](https://portfolio-amber-six-39.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/Vineeth-1204) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vineeth-pragasam-a911282b4/)
+[Portfolio](https://portfolio-amber-six-39.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/Vineeth-1204) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vineeth-pragasam-a911282b4/) &nbsp;·&nbsp; [Email](mailto:vineethprakash61@gmail.com)
+
+<br/>
+
+<sub>Chennai, India</sub>
+
+<br/><br/>
+
+──────────────────────────────
 
 </div>
