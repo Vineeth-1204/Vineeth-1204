@@ -104,7 +104,6 @@ C / C++
 
 Flutter
 Spring Boot
-Odoo
 
 </td>
 <td valign="top" width="16%">
